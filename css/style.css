@@ -56,7 +56,7 @@ body {
 }
 
 
-/* Content */
+/* Container */
 
 
 /* Cover */
@@ -130,32 +130,40 @@ body {
     .header__inner {
         width: 100%;
     }
+
     .header__right {
         margin-top: 12px;
     }
+
     .header__title {
         font-weight: 300;
         font-size: 2em;
         margin: 0.1em 0.25em;
     }
+
     .header__subtitle {
         font-weight: 300;
         font-size: 1em;
         margin: 0.1em 0.55em;
     }
+
     .cover {
         width: 100%;
     }
+
     .feature__title {
         font-size: 2.5em;
     }
+
     .article {
         width: 100%;
         margin-bottom: 20px;
     }
+
     .article__title {
         font-size: 2em;
     }
+
     .article__link {
         font-size: 1.5em;
     }
@@ -165,32 +173,40 @@ body {
     .header__inner {
         width: 100%;
     }
+
     .header__right {
         margin-top: 12px;
     }
+
     .header__title {
         font-weight: 300;
         font-size: 3em;
         margin: 0.1em 0.25em;
     }
+
     .header__subtitle {
         font-weight: 300;
         font-size: 1.5em;
         margin: 0.1em 0.55em;
     }
+
     .cover {
         width: 100%;
     }
+
     .feature__title {
         font-size: 2.5em;
     }
+
     .article {
         width: 50%;
         margin-bottom: 20px;
     }
+
     .article__title {
         font-size: 2.5em;
     }
+
     .article__link {
         font-size: 1.3em;
     }
